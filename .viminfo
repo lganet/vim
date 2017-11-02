@@ -1,0 +1,676 @@
+# Este arquivo viminfo foi gerado pelo Vim 7.4.
+# Você pode editá-lo se for cuidadoso!
+
+# Valor de 'encoding' quando este arquivo foi escrito
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Último padrão de busca :
+~Msle0~/"------------------------------------------------------------
+
+# Último padrão de busca  de substituição:
+~MSle0&\.
+
+# Última string de substituição:
+$
+
+# Histórico de Linha de comando (mais recente primeiro):
+:q
+:q!
+:5
+:NERDTree
+:wq
+:html:5
+:html:5_
+:map <C-n> :NERDTreeToggle<CR>
+:NERDTreeToggle
+:html_5
+:PlugInstall
+:189
+:wq!
+:134
+:helptags ~/.vim/bundle/nerdtree/doc/
+:3ie
+:3i-
+:Q
+:tab
+:tabc
+:Wq
+:%s/\./,/g
+:%s/;\.;/;,;/g
+:%s/;0E\-10;/;0;/g
+:%s/;0E\-12;/;0;/g
+:qw
+:%s/`ml_v2`/`ml_v2_demanda`/g
+
+# Histórico de Expressões de busca (mais recente primeiro):
+? \$\(cursor\|select\)\$
+? "------------------------------------------------------------
+?/call plug#begin(‘~/.vim/plugged’)
+?/plugin
+? \s\+$
+?/Plu
+? \.
+? ;\.;
+?/\.
+?/.
+?/;2017;
+?/;2017;8;
+? ;0E\-10;
+? ;0E\-12;
+?/5183114
+?/application
+? \<usr\>
+?/usr/bin/notify-send
+??\a
+? `ml_v2`
+?/ml_v2
+? \<Require\>
+? \<load\>
+?/bluetooth
+?//
+
+# Histórico de Expressão (mais recente primeiro):
+
+# Histórico de Linhas de entrada (mais recente primeiro):
+
+# Histórico de Linhas de entrada (mais recente primeiro):
+
+# Registradores:
+"1	LINE	0
+	
+	
+"2	LINE	0
+	call plug#begin(‘~/.vim/plugged’)
+"3	LINE	0
+	    Plug ‘pangloss/vim-javascript’
+"4	LINE	0
+	    Plug ‘mxw/vim-jsx’
+"5	LINE	0
+	call plug#end()
+"6	LINE	0
+	    \ | endif
+"7	LINE	0
+	5
+"8	LINE	0
+	    \ | PlugInstall | q
+"9	LINE	0
+	4
+""-	CHAR	0
+	_
+
+# Marcas nos arquivos:
+'0  1  0  /tmp/lganet.log
+'1  1  0  ~/.aws/credentials
+'2  17  22  ~/.aws/credentials
+'3  465  9  ~/Documentos/dvp/abastecimento/sc-common-utilities/a.txt
+'4  1  2  ~/Documentos/dvp/abastecimento/sc-common-utilities/a.txt
+'5  96  28  ~/.bashrc
+'6  1  0  ~/Documentos/course/swagger/demo/app.js
+'7  1  0  ~/Documentos/course/swagger/demo/package.json
+'8  9  0  ~/.vim/teste.html
+'9  98  0  ~/.vimrc
+
+# Lista de saltos (mais recente primeiro):
+-'  1  0  /tmp/lganet.log
+-'  9  5  ~/Documentos/dvp/travapreco/NERD_tree_1
+-'  48  2  ~/Documentos/dvp/travapreco/NERD_tree_1
+-'  1  0  ~/Documentos/dvp/travapreco/NERD_tree_1
+-'  1  0  ~/.aws/credentials
+-'  17  22  ~/.aws/credentials
+-'  465  9  ~/Documentos/dvp/abastecimento/sc-common-utilities/a.txt
+-'  1  0  ~/Documentos/dvp/abastecimento/sc-common-utilities/a.txt
+-'  96  28  ~/.bashrc
+-'  134  42  ~/.bashrc
+-'  1  0  ~/Documentos/course/swagger/demo/app.js
+-'  1  0  ~/Documentos/course/swagger/demo/package.json
+-'  9  0  ~/.vim/teste.html
+-'  8  2  ~/.vim/teste.html
+-'  1  93  ~/.vim/teste.html
+-'  98  0  ~/.vimrc
+-'  22  0  ~/.vimrc
+-'  75  0  ~/Documentos/dvp/abastecimento/abastecimento-excecao-2.php
+-'  1  0  ~/Documentos/dvp/abastecimento/abastecimento-excecao-2.php
+-'  4  0  ~/.vim/autoload/emmet.vim
+-'  1  0  ~/.vim/autoload/emmet.vim
+-'  623  4  ~/.vimrc
+-'  226  0  ~/.vimrc
+-'  189  2  ~/.vimrc
+-'  1  0  ~/.vimrc
+-'  8  0  ~/.vimrc
+-'  154  9  ~/.vimrc
+-'  199  0  ~/generate.vim
+-'  1  0  ~/generate.vim
+-'  158  0  ~/.vimrc
+-'  157  0  ~/.vimrc
+-'  133  0  ~/.vim/autoload/plug.vim
+-'  1  0  ~/.vim/autoload/plug.vim
+-'  26  0  ~/.vimrc
+-'  20  10  ~/.vimrc
+-'  64  0  ~/.vimrc
+-'  1  45  ~/.vim/.vimrc
+-'  133  31  ~/.vimrc
+-'  141  3  ~/.vimrc
+-'  25  0  ~/.vim/emmet-vim.zip
+-'  219  0  ~/.vimrc
+-'  1  0  ~/.bashrc
+-'  137  183  ~/.bashrc
+-'  1  0  ~/Documentos/course/react/reactninja/curso-reactjs-ninja/config/terminator-config
+-'  1  0  ~/.bash
+-'  8  38  ~/Documentos/course/react/reactninja/index.html
+-'  1  0  ~/Documentos/course/react/reactninja/index.html
+-'  10  6  ~/Documentos/course/react/reactninja/index.html
+-'  11  0  ~/Documentos/course/react/reactninja/webpack.config.js
+-'  1  0  ~/Documentos/course/react/reactninja/webpack.config.js
+-'  1  0  ~/Documentos/course/react/reactninja/src/webpack.config.js
+-'  1  35  ~/Documentos/course/react/reactninja/src/index.js
+-'  12  0  ~/Documentos/course/react/reactninja/webpack.config.js
+-'  1  0  ~/Documentos/course/react/reactninja/curso-reactjs-ninja/index.html
+-'  1  0  ~/Documentos/course/react/reactninja/curso-reactjs-ninja/index.js
+-'  9  21  ~/Documentos/course/react/reactninja/curso-reactjs-ninja/webpack.config.js
+-'  1  0  ~/Documentos/course/react/reactninja/curso-reactjs-ninja/webpack.config.js
+-'  70  0  ~/Documentos/course/react/reactninja/curso-reactjs-ninja/config/.zshrc
+-'  1  0  ~/Documentos/course/react/reactninja/curso-reactjs-ninja/config/.zshrc
+-'  1  0  ~/Documentos/course/react/reactninja/curso-reactjs-ninja/ementa-modulo-01.md
+-'  1  0  ~/Documentos/course/es6/package.json
+-'  33  25  ~/Documentos/course/es6/package.json
+-'  26  5  ~/Documentos/course/es6/package.json
+-'  7  5  ~/Documentos/dvp/abastecimento/corpcom-api-transports/.gitignore
+-'  1  0  ~/Documentos/dvp/abastecimento/corpcom-api-transports/.gitignore
+-'  29  0  ~/.npm/_logs/2017-08-22T12_02_59_500Z-debug.log
+-'  1  0  ~/.npm/_logs/2017-08-22T12_02_59_500Z-debug.log
+-'  8  5  ~/Documentos/dvp/abastecimento/corpcom-api-transports/.gitignore
+-'  167283  0  ~/Documentos/dvp/abastecimento/PMT_Consolidado_2017.csv
+-'  1  0  ~/Documentos/dvp/abastecimento/PMT_Consolidado_2017.csv
+-'  34  35  ~/Documentos/dvp/abastecimento/PMT_Consolidado.csv
+-'  33  35  ~/Documentos/dvp/abastecimento/PMT_Consolidado.csv
+-'  32  35  ~/Documentos/dvp/abastecimento/PMT_Consolidado.csv
+-'  31  35  ~/Documentos/dvp/abastecimento/PMT_Consolidado.csv
+-'  29  36  ~/Documentos/dvp/abastecimento/PMT_Consolidado.csv
+-'  28  36  ~/Documentos/dvp/abastecimento/PMT_Consolidado.csv
+-'  27  36  ~/Documentos/dvp/abastecimento/PMT_Consolidado.csv
+-'  26  36  ~/Documentos/dvp/abastecimento/PMT_Consolidado.csv
+-'  25  36  ~/Documentos/dvp/abastecimento/PMT_Consolidado.csv
+-'  24  36  ~/Documentos/dvp/abastecimento/PMT_Consolidado.csv
+-'  22  36  ~/Documentos/dvp/abastecimento/PMT_Consolidado.csv
+-'  21  36  ~/Documentos/dvp/abastecimento/PMT_Consolidado.csv
+-'  20  36  ~/Documentos/dvp/abastecimento/PMT_Consolidado.csv
+-'  19  36  ~/Documentos/dvp/abastecimento/PMT_Consolidado.csv
+-'  15  36  ~/Documentos/dvp/abastecimento/PMT_Consolidado.csv
+-'  14  36  ~/Documentos/dvp/abastecimento/PMT_Consolidado.csv
+-'  13  36  ~/Documentos/dvp/abastecimento/PMT_Consolidado.csv
+-'  12  36  ~/Documentos/dvp/abastecimento/PMT_Consolidado.csv
+-'  11  36  ~/Documentos/dvp/abastecimento/PMT_Consolidado.csv
+-'  10  35  ~/Documentos/dvp/abastecimento/PMT_Consolidado.csv
+-'  8  35  ~/Documentos/dvp/abastecimento/PMT_Consolidado.csv
+-'  7  35  ~/Documentos/dvp/abastecimento/PMT_Consolidado.csv
+-'  6  35  ~/Documentos/dvp/abastecimento/PMT_Consolidado.csv
+-'  9  5  ~/Documentos/dvp/travapreco/NERD_tree_1
+-'  48  2  ~/Documentos/dvp/travapreco/NERD_tree_1
+-'  1  0  ~/Documentos/dvp/travapreco/NERD_tree_1
+-'  1  0  ~/.aws/credentials
+-'  17  22  ~/.aws/credentials
+-'  465  9  ~/Documentos/dvp/abastecimento/sc-common-utilities/a.txt
+
+# Histórico de marcas nos arquivos (mais recente primeiro):
+
+> /tmp/lganet.log
+	"	1	0
+
+> ~/Documentos/dvp/travapreco/NERD_tree_1
+	"	9	5
+	.	1	0
+	+	1	0
+	+	1	0
+
+> ~/Documentos/dvp/travapreco/api/sprint01/apiSistema.js
+	"	1	0
+
+> ~/.aws/credentials
+	"	1	0
+	^	17	23
+	.	17	22
+	+	17	22
+
+> ~/Documentos/dvp/abastecimento/sc-common-utilities/a.txt
+	"	465	9
+	^	465	10
+	.	465	9
+	+	1	5
+	+	352	10
+	+	465	9
+
+> ~/.bashrc
+	"	96	28
+	^	96	29
+	.	96	28
+	+	137	152
+	+	134	0
+	+	132	0
+	+	133	0
+	+	133	26
+	+	135	0
+	+	134	26
+	+	137	153
+	+	95	26
+	+	96	28
+
+> ~/Documentos/course/swagger/demo/app.js
+	"	1	0
+
+> ~/Documentos/course/swagger/demo/package.json
+	"	1	0
+
+> ~/.vim/teste.html
+	"	9	0
+	^	9	0
+	.	9	0
+	+	1	6
+	+	1	0
+	+	1	91
+	+	1	0
+	+	8	0
+	+	9	0
+
+> ~/.vimrc
+	"	98	0
+	.	157	0
+	+	137	0
+	+	136	3
+	+	133	31
+	+	136	25
+	+	157	15
+	+	27	0
+	+	157	38
+	+	26	37
+	+	26	0
+	+	26	15
+	+	26	19
+	+	26	0
+	+	26	0
+	+	27	0
+	+	157	19
+	+	157	0
+	+	157	36
+	+	157	15
+	+	157	3
+	+	157	3
+	+	157	0
+	+	157	0
+	+	158	0
+	+	157	6
+	+	172	0
+	+	171	0
+	+	165	0
+	+	167	0
+	+	169	0
+	+	159	18
+	+	159	126
+	+	159	0
+	+	160	0
+	+	159	0
+	+	159	3
+	+	161	19
+	+	161	0
+	+	163	0
+	+	160	3
+	+	161	26
+	+	164	0
+	+	157	0
+
+> ~/Documentos/dvp/abastecimento/abastecimento-excecao-2.php
+	"	75	0
+
+> ~/.vim/NERD_tree_1
+	"	37	1
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> ~/.vim/autoload/emmet.vim
+	"	4	0
+
+> ~/generate.vim
+	"	199	0
+
+> ~/.vim/autoload/plug.vim
+	"	133	0
+
+> ~/.vim/.vimrc
+	"	1	45
+	^	1	46
+	.	159	0
+	+	159	0
+
+> ~/.vim/emmet-vim.zip
+	"	25	0
+	.	1	0
+	+	1	0
+
+> ~/Documentos/course/react/reactninja/curso-reactjs-ninja/config/terminator-config
+	"	1	0
+
+> ~/.bash
+	"	1	0
+
+> ~/Documentos/course/react/reactninja/index.html
+	"	8	38
+	^	8	39
+	.	9	0
+	+	10	0
+	+	8	0
+	+	8	0
+	+	8	39
+	+	2	17
+	+	6	6
+	+	4	23
+	+	5	15
+	+	8	39
+	+	9	0
+
+> ~/Documentos/course/react/reactninja/webpack.config.js
+	"	11	0
+	^	12	0
+	.	12	0
+	+	11	1
+	+	12	0
+
+> ~/Documentos/course/react/reactninja/src/webpack.config.js
+	"	1	0
+
+> ~/Documentos/course/react/reactninja/src/index.js
+	"	1	35
+	^	1	36
+	.	1	35
+	+	1	35
+
+> ~/Documentos/course/react/reactninja/curso-reactjs-ninja/index.html
+	"	1	0
+
+> ~/Documentos/course/react/reactninja/curso-reactjs-ninja/index.js
+	"	1	0
+	^	1	38
+	.	1	37
+	+	1	37
+
+> ~/Documentos/course/react/reactninja/curso-reactjs-ninja/webpack.config.js
+	"	9	21
+	^	9	22
+	.	10	0
+	+	1	12
+	+	5	18
+	+	6	48
+	+	7	12
+	+	10	0
+	+	8	38
+	+	9	22
+	+	10	0
+
+> ~/Documentos/course/react/reactninja/curso-reactjs-ninja/config/.zshrc
+	"	70	0
+
+> ~/Documentos/course/react/reactninja/curso-reactjs-ninja/ementa-modulo-01.md
+	"	1	0
+
+> ~/Documentos/course/es6/package.json
+	"	1	0
+	.	33	25
+	+	12	15
+	+	14	15
+	+	15	11
+	+	33	27
+	+	26	0
+	+	33	25
+
+> ~/Documentos/dvp/abastecimento/corpcom-api-transports/.gitignore
+	"	7	5
+	^	7	6
+	.	7	5
+	+	8	5
+	+	7	5
+
+> ~/.npm/_logs/2017-08-22T12_02_59_500Z-debug.log
+	"	29	0
+
+> ~/Documentos/dvp/abastecimento/PMT_Consolidado_2017.csv
+	"	167283	0
+	^	2	0
+	.	3	0
+	+	1	0
+	+	3	0
+
+> ~/Documentos/dvp/abastecimento/PMT_Consolidado.csv
+	"	34	35
+
+> ~/Documentos/dvp/travapreco/AWS EC2.txt
+	"	13	0
+
+> ~/Documentos/dvp/travapreco/AWS
+	"	1	0
+
+> ~/.profile
+	"	21	39
+	^	21	40
+	.	21	39
+	+	21	39
+
+> /etc/lightdm/users.conf
+	"	1	0
+
+> /etc/lightdm/lightdm.conf
+	"	1	0
+
+> /usr/share/lightdm/lightdm.conf.d/50-ubuntu.conf
+	"	2	0
+
+> ~/apps/RubyMine-2017.1.4/bin/rubymine.sh
+	"	1	0
+
+> ~/Documentos/dvp/abastecimento/bkp_1306_Dev.backup
+	"	1	0
+
+> ~/Documentos/dvp/abastecimento/ml-schedule/config/database.yml
+	"	1	0
+	^	16	9
+	.	16	8
+	+	16	8
+
+> ~/Documentos/dvp/abastecimento/ml-schedule/docker-compose.yml
+	"	1	0
+
+> ~/Documentos/dvp/abastecimento/ml-schedule/config.ru
+	"	1	0
+
+> ~/Documentos/dvp/abastecimento/ml-schedule/Dockerfile
+	"	50	0
+
+> ~/Documentos/dvp/abastecimento/masterJAVA/planejamentoabastecimento-integrationluiza/Fontes/Integration/GerenciamentoAbastecimento/aba.tar
+	"	27	0
+	.	5	0
+	+	5	0
+
+> ~/Documentos/dvp/abastecimento/planejamentoabastecimento-previsionluiza/env/lib/python2.7/site-packages/slack_logger.py
+	"	4	0
+
+> ~/Documentos/avisos.sh
+	"	1	0
+	^	6	1
+	.	6	0
+	+	1	11
+	+	3	9
+	+	3	20
+	+	3	0
+	+	9	0
+	+	1	0
+	+	2	0
+	+	4	93
+	+	6	180
+	+	6	94
+	+	4	80
+	+	6	151
+	+	8	0
+	+	6	0
+
+> ~/Documentos/megasena.py
+	"	2	0
+	^	2	0
+	.	1	15
+	+	4	27
+	+	1	15
+
+> ~/Documentos/megasena.js
+	"	2	56
+	^	2	57
+	.	2	9
+	+	6	0
+	+	2	9
+
+> ~/Documentos/dvp/abastecimento/planejamentoabastecimento-previsionluiza/newrelic.ini
+	"	206	0
+	^	206	0
+	.	55	0
+	+	1	77
+	+	36	14
+	+	55	0
+
+> ~/Documentos/dvp/abastecimento/planejamentoabastecimento-integrationluiza/Deliverables/GerenciamentoAbastecimento-1.0.0-SNAPSHOT.jar
+	"	26	0
+	.	1	0
+	+	1	0
+
+> zipfile:/home/lganet/Documentos/dvp/abastecimento/planejamentoabastecimento-integrationluiza/Deliverables/GerenciamentoAbastecimento-1.0.0-SNAPSHOT.jar::application.yml
+	"	61	0
+	^	61	1
+
+> ~/Documentos/dvp/python/pandas/env/bin/activate
+	"	55	0
+
+> ~/Documentos/dvp/abastecimento/integracao_dw.sh
+	"	118	0
+
+> ~/dumps/Promocionais20170411.sql
+	"	24	0
+	^	23	0
+	.	24	0
+	+	22	30
+	+	24	0
+
+> ~/Documentos/dvp/abastecimento/bloqueio-multi.php
+	"	1	0
+
+> /etc/apache2/sites-available/000-default.conf
+	"	1	0
+
+> /etc/apache2/sites-available/default-ssl.conf
+	"	134	7
+
+> /etc/php/7.0/mods-available/xdebug.ini
+	"	1	0
+	^	3	22
+	.	3	21
+	+	5	0
+	+	2	27
+	+	3	21
+
+> ~/Documentos/dvp/abastecimento/bkpBanco/ml_v2-17-Feb-2017-1487296801.sql
+	"	1	0
+	^	5208	0
+	.	19	0
+	+	22	54
+	+	24	17
+	+	5208	0
+	+	19	0
+	a	5208	0
+	l	22	42
+
+> /etc/apache2/apache2.conf
+	"	171	38
+	^	171	39
+	.	171	39
+	+	154	15
+	+	155	17
+	+	156	19
+	+	170	21
+	+	176	0
+	+	170	11
+	+	172	24
+	+	166	17
+	+	165	32
+	+	171	39
+
+> /etc/apache2/sites-enabled/000-default.conf
+	"	15	42
+	^	15	43
+	.	15	33
+	+	12	99
+	+	13	24
+	+	18	0
+	+	13	1
+	+	14	4
+	+	15	8
+	+	18	1
+	+	15	8
+	+	14	17
+	+	15	0
+	+	17	0
+	+	17	0
+	+	18	0
+	+	16	5
+	+	15	33
+
+> /etc/apache2/mods-enabled/auth_basic.load
+	"	1	0
+
+> /etc/apache2/mods-enabled/dir.conf
+	"	1	0
+
+> /etc/apache2/mods-enabled/php7.0.load
+	"	1	0
+
+> /etc/apache2/mods-enabled/php7.0.conf
+	"	13	4
+	^	13	5
+	.	13	4
+	+	13	4
+	+	9	4
+	+	13	4
+
+> /usr/bin/start-pulseaudio-x11
+	"	32	8
+	.	32	7
+	+	32	7
+
+> /etc/pulse/default.pa
+	"	74	0
+	^	74	1
+	.	74	0
+	+	74	0
+
+> /etc/bluetooth/audio.conf
+	"	1	0
+	^	1	0
+	.	46	15
+	+	46	15
+
+> ~/apps/PhpStorm-163.9735.1/bin/phpstorm.sh
+	"	1	0
+
+> /run/user/1001/gvfs/smb-share:server=fs,share=salareuniao/lus_moreas/database/packages/novo.sql
+	"	1	0
+
+> /run/user/1001/gvfs/smb-share:server=fs,share=salareuniao/lus_moreas/database/tables/novo.sql
+	"	1	0
+
+> ~/Documentos/dvp/Prevision/planejamentoabastecimento-previsionluiza/python/calculate/api/api/scripts/update_mysql.py
+	"	57	0
+	^	50	103
+	.	50	103
+	+	50	103
